@@ -1,0 +1,11 @@
+img {
+  display: block;
+}
+
+.header {
+  background-color: aqua;
+}
+
+#welcome {
+  font-family: cursive;
+}
